@@ -10,7 +10,7 @@ ISO 42001 Blueprint: Don't just find the risk; find the fix. Every classificatio
 Executive Visibility: A one-click Dashboard that transforms complex rows of data into a visual summary for Board-level reporting.
 Centralized Truth: Stop using scattered spreadsheets. Track 100+ AI systems in one single, version-controlled source of truth.
 
-Headline: Who is this for? Body:
+Who is this for? Body:
 
 GRC & Legal Teams: To maintain an "Article 71" compliant record of AI systems.
 CTOs & Product Leads: To vet new AI features before they hit the production environment.
